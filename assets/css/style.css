@@ -1,0 +1,23 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: poppins;
+}
+body {
+  background: #e9e9e9;
+}
+.fiverr-wraper {
+  width: 600px;
+  margin: 200px auto;
+}
+.counter {
+  font-size: 70px;
+  text-align: center;
+  font-weight: 400;
+}
+.counter span {
+  font-size: 100px;
+  text-align: center;
+  font-weight: 600;
+  vertical-align: middle;
+}
